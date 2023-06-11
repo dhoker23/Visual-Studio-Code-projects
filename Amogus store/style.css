@@ -1,0 +1,34 @@
+
+h1{
+    text-align: center;
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+        background-color: chartreuse;
+}
+td{
+        align-content: center;
+        border: solid;
+}
+.redtd{
+        background-color: red;
+        text-align: center;
+}
+.greentd{
+        background-color: green;
+        text-align: center;        
+}
+.cyantd{
+        background-color: cyan;
+        text-align: center;    
+}
+.firsttr{
+    font-style: normal;
+}
+body{
+    background-color: white;
+}
+p{
+    text-align: center;
+}
